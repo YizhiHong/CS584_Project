@@ -1,5 +1,5 @@
-# CS584_Project
-CS584 Maching learning project
+# FIFA18_dataset_analysis
+FIFA18_dataset_analysis
 data - The main dataset
 doc
     - proposal
